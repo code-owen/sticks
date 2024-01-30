@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Sticks.Web.props" />
+</Project>
