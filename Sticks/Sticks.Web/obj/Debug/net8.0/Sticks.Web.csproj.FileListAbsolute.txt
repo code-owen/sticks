@@ -134,3 +134,4 @@ C:\Users\owen1\Documents\http-5226-back-end-web\passion-project\Sticks\Sticks.We
 C:\Users\owen1\Documents\http-5226-back-end-web\passion-project\Sticks\Sticks.Web\obj\Debug\net8.0\Sticks.Web.pdb
 C:\Users\owen1\Documents\http-5226-back-end-web\passion-project\Sticks\Sticks.Web\obj\Debug\net8.0\Sticks.Web.genruntimeconfig.cache
 C:\Users\owen1\Documents\http-5226-back-end-web\passion-project\Sticks\Sticks.Web\obj\Debug\net8.0\ref\Sticks.Web.dll
+C:\Users\owen1\Documents\http-5226-back-end-web\passion-project\Sticks\Sticks.Web\obj\Debug\net8.0\Sticks.Web.sourcelink.json

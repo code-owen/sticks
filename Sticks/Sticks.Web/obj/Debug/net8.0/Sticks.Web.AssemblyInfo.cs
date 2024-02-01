@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sticks.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+457d002fbb6ff0c956d6de1ac93218660c217bdf")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sticks.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sticks.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
